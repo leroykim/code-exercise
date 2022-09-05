@@ -7,7 +7,7 @@
 - [x] Section 5: Data Structures: Introduction
 - [x] Section 6: Data Structures: Arrays
 - [x] Section 7: Data Structures: Hash Tables
-- [x] Section 8: Data Structures: Linked Lists
+- [x] Section 8: Data Structures: Linked Lists (9/5/2022)
 - [ ] Section 9: Data Structures: Stacks + Queues
 - [ ] Section 10: Data Structures: Trees
 - [ ] Section 11: Data Structures: Graphs
